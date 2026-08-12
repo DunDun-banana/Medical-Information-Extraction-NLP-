@@ -1,0 +1,182 @@
+server:
+  endpoint: http://127.0.0.1:8081/v1/chat/completions
+  model: qwen3-4b
+  timeout_seconds: 600
+  use_json_mode: false
+generation:
+  temperature: 0.0
+  top_p: 1.0
+  max_tokens: 640
+  presence_penalty: 0.0
+  seed: 42
+pipeline:
+  use_rules: true
+  use_vihealthbert: true
+  use_llm: true
+  use_concept_normalizer: false
+  assertion_mode: preserve_source
+  resume: true
+  rule_addition_mode: section_consensus
+  rule_support_thresholds:
+    TRIỆU_CHỨNG: 0.88
+    CHẨN_ĐOÁN: 0.92
+    TÊN_XÉT_NGHIỆM: 0.94
+    KẾT_QUẢ_XÉT_NGHIỆM: 0.94
+    THUỐC: 0.94
+  use_structured: true
+  use_contextual_clinical: true
+  use_gliner: true
+  use_semantic_gate: true
+  use_qwen_verifier: false
+  use_assertion_scope: true
+  span_repair:
+    enabled: true
+    remove_midword_anchors: true
+    repair_exact_type: true
+    repair_cross_type_exact: true
+    contextual_test_overrides_diagnosis: true
+chunking:
+  strategy: semantic_article
+  max_chars: 1800
+  overlap_chars: 120
+  min_medical_signal: 1
+  include_neighbor_heading: true
+llm:
+  prompt_mode: single
+  proposal_mode: anchor_all_rules
+  allow_vihealth_consensus: true
+  consensus_llm_confidence: 0.84
+  allowed_types:
+  - TRIỆU_CHỨNG
+  - CHẨN_ĐOÁN
+  - TÊN_XÉT_NGHIỆM
+  - KẾT_QUẢ_XÉT_NGHIỆM
+  - THUỐC
+  min_entity_chars: 2
+  max_entity_chars: 150
+  max_occurrences_per_row: 4
+  cache_dir: data/cache/llm/round2_v5_proposer
+  allow_uncorroborated_types: &id001
+  - TRIỆU_CHỨNG
+  - CHẨN_ĐOÁN
+  - TÊN_XÉT_NGHIỆM
+  - KẾT_QUẢ_XÉT_NGHIỆM
+  - THUỐC
+  support_overlap_iou: 0.4
+  require_exact_support: false
+  max_chars_by_type: &id002
+    TRIỆU_CHỨNG: 90
+    CHẨN_ĐOÁN: 100
+    TÊN_XÉT_NGHIỆM: 100
+    KẾT_QUẢ_XÉT_NGHIỆM: 150
+    THUỐC: 110
+  max_words_by_type: &id003
+    TRIỆU_CHỨNG: 14
+    CHẨN_ĐOÁN: 15
+    TÊN_XÉT_NGHIỆM: 15
+    KẾT_QUẢ_XÉT_NGHIỆM: 24
+    THUỐC: 18
+  allow_model_consensus: true
+vihealthbert:
+  config_path: configs/ner_round2_v4_curriculum.yaml
+  thresholds:
+    TRIỆU_CHỨNG: 0.9
+    CHẨN_ĐOÁN: 0.94
+    TÊN_XÉT_NGHIỆM: 0.95
+    KẾT_QUẢ_XÉT_NGHIỆM: 0.95
+    THUỐC: 0.95
+  uncorroborated_types: *id001
+  overlap_iou: 0.4
+  require_exact_support: false
+  max_chars_by_type:
+    TRIỆU_CHỨNG: 64
+    CHẨN_ĐOÁN: 72
+    TÊN_XÉT_NGHIỆM: 72
+    KẾT_QUẢ_XÉT_NGHIỆM: 100
+    THUỐC: 80
+  max_words_by_type:
+    TRIỆU_CHỨNG: 9
+    CHẨN_ĐOÁN: 10
+    TÊN_XÉT_NGHIỆM: 10
+    KẾT_QUẢ_XÉT_NGHIỆM: 16
+    THUỐC: 12
+ensemble:
+  keep_all_rule_entities: true
+  llm_min_confidence: 0.68
+  prefer_shorter_span_within: 0.0
+normalization:
+  enabled: true
+  batch_size: 24
+  types:
+  - CHẨN_ĐOÁN
+  - THUỐC
+  cache_path: data/cache/llm/concept_normalization_v3.json
+linking:
+  enable_icd_embedding: true
+  enable_rxnorm_embedding: true
+  embedding_model: models/embeddings/bge-m3
+  icd_embedding_index: data/processed/icd_embeddings_bge_m3.npz
+  rxnorm_embedding_index: data/processed/rxnorm_embeddings_bge_m3.npz
+  embedding_top_k: 20
+  embedding_threshold: 0.78
+  enable_icd_bm25: true
+  icd_top_k: 20
+  icd_min_score: 3.4
+  icd_min_margin: 0.55
+  enable_rxnorm_exact: true
+  candidate_gate_mode: hybrid_reranker
+  preserve_baseline_candidates: true
+  reranker_top_k: 20
+  icd_catalog: data/processed/icd10_codes.csv
+  icd_byt_catalog: data/processed/icd10_byt_v5.csv
+  rxnorm_catalog: data/external/rxnorm_lookup_flat.json
+gliner:
+  model_path: models/gliner/medical-ie-v4
+  raw_threshold: 0.45
+  device: auto
+  labels:
+  - triệu chứng
+  - chẩn đoán
+  - tên xét nghiệm
+  - kết quả xét nghiệm
+  - thuốc
+  thresholds:
+    TRIỆU_CHỨNG: 0.8
+    CHẨN_ĐOÁN: 0.84
+    TÊN_XÉT_NGHIỆM: 0.8
+    KẾT_QUẢ_XÉT_NGHIỆM: 0.82
+    THUỐC: 0.84
+  uncorroborated_types: *id001
+  overlap_iou: 0.4
+  require_exact_support: false
+  max_chars_by_type: *id002
+  max_words_by_type: *id003
+semantic_gate:
+  enabled: true
+  reject_headings: true
+  reject_field_labels: true
+  reject_risk_factors: true
+  repair_modalities: true
+  require_model_support_for_symptom_attributes: true
+  uncorroborated_neural_min_confidence: 0.9
+  source_aware: true
+  reject_procedures: true
+  reject_mechanisms: true
+  one_token_whitelist: true
+verifier:
+  enabled: false
+  batch_size: 12
+  risky_sources:
+  - self_host_llm
+  - vihealthbert
+  - gliner
+assertion_scope:
+  model_path: models/assertion_scope/v4_scope.joblib
+  preserve_baseline: true
+  threshold: 0.55
+  rules_union: true
+reranker:
+  enabled: true
+  model_path: models/rerankers/bge-reranker-v2-m3
+  threshold: 0.57
+  margin: 0.08
