@@ -1,0 +1,198 @@
+[
+  {
+    "text": "động mạch vành",
+    "position": [
+      67,
+      81
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [
+      203,
+      210
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "lý mạn tính",
+    "position": [
+      265,
+      276
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Graves",
+    "position": [
+      288,
+      294
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lipid máu, không đặc hiệu",
+    "position": [
+      306,
+      331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "run rẩy tay chân",
+    "position": [
+      338,
+      354
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "mất thăng bằng khi đi đứng.",
+    "position": [
+      356,
+      383
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "run tay",
+    "position": [
+      417,
+      424
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isFamily"
+    ]
+  },
+  {
+    "text": "run tay",
+    "position": [
+      725,
+      732
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [
+      832,
+      845
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      948,
+      951
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "mạch và",
+    "position": [
+      974,
+      981
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1201,
+      1208
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      1210,
+      1219
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      1221,
+      1229
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "đỏ mặt",
+    "position": [
+      1231,
+      1237
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "tụt huyết áp thế đứng.",
+    "position": [
+      1251,
+      1273
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": "pantothenic acid 500 mg",
+    "position": [
+      86,
+      109
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "317658"
+    ]
+  },
+  {
+    "text": "idelalisib 150mg uống mỗi sáng",
+    "position": [
+      114,
+      144
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1544475"
+    ]
+  },
+  {
+    "text": "doxycycline monohydrate 100mg uống qd",
+    "position": [
+      166,
+      203
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1650142"
+    ]
+  },
+  {
+    "text": "verapamil hydrochloride 40mg po daily",
+    "position": [
+      206,
+      243
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "897722"
+    ]
+  }
+]

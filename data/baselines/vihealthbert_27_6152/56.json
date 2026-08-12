@@ -1,0 +1,133 @@
+[
+  {
+    "text": "ba thân động mạch vành",
+    "position": [
+      289,
+      311
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hang vị sung huyết",
+    "position": [
+      416,
+      434
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      545,
+      548
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      552,
+      560
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ợ hơi",
+    "position": [
+      578,
+      583
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ợ chua",
+    "position": [
+      585,
+      591
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      612,
+      620
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      626,
+      629
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dày",
+    "position": [
+      649,
+      652
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      720,
+      727
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "sung huyết hang vị dạ dày",
+    "position": [
+      806,
+      831
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [
+      887,
+      901
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "sung huyết hang vị dạ dày",
+    "position": [
+      1286,
+      1311
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      1747,
+      1750
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

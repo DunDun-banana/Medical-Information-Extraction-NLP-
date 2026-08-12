@@ -1,0 +1,52 @@
+[
+  {
+    "text": "đông",
+    "position": [
+      156,
+      160
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đông máu.",
+    "position": [
+      886,
+      895
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sản giậ",
+    "position": [
+      1003,
+      1010
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ra máu bất",
+    "position": [
+      1124,
+      1134
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "chảy máu",
+    "position": [
+      1195,
+      1203
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

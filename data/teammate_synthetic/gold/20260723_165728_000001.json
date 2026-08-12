@@ -1,0 +1,56 @@
+[
+  {
+    "text": "ST-37 1mg/ml",
+    "position": [
+      24,
+      36
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "669623"
+    ]
+  },
+  {
+    "text": "gabapentin enacarbil 600 mg tab",
+    "position": [
+      39,
+      70
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1101338"
+    ]
+  },
+  {
+    "text": "allopurinol 100 mg",
+    "position": [
+      73,
+      91
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "315310"
+    ]
+  },
+  {
+    "text": "cholecalciferol 0.01 mg tablet",
+    "position": [
+      113,
+      143
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "209638"
+    ]
+  }
+]

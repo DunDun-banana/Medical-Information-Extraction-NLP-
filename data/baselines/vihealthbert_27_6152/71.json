@@ -1,0 +1,174 @@
+[
+  {
+    "text": "nh",
+    "position": [
+      68,
+      70
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "xúc tốt",
+    "position": [
+      77,
+      84
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "trầm",
+    "position": [
+      106,
+      110
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "tử",
+    "position": [
+      156,
+      158
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi",
+    "position": [
+      319,
+      334
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I26.9"
+    ]
+  },
+  {
+    "text": "trùng chi dưới bên phải",
+    "position": [
+      352,
+      375
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ococcus",
+    "position": [
+      384,
+      391
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vancomycin",
+    "position": [
+      398,
+      408
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11124"
+    ]
+  },
+  {
+    "text": "nổi",
+    "position": [
+      632,
+      635
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "nổi",
+    "position": [
+      691,
+      694
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nổi",
+    "position": [
+      1064,
+      1067
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "lưng",
+    "position": [
+      1077,
+      1081
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nổi",
+    "position": [
+      1171,
+      1174
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "giảm chức năng gan",
+    "position": [
+      1391,
+      1409
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mề",
+    "position": [
+      1415,
+      1417
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vảy nế",
+    "position": [
+      1428,
+      1434
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

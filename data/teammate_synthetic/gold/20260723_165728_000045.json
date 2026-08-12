@@ -1,0 +1,85 @@
+[
+  {
+    "text": "chất nhầy trong mũi",
+    "position": [
+      111,
+      130
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau đầu đột ngột",
+    "position": [
+      196,
+      212
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "có một khối ở bụng",
+    "position": [
+      253,
+      271
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "epsiprantel 50 mg uống qd",
+    "position": [
+      295,
+      320
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1314473"
+    ]
+  },
+  {
+    "text": "PLT",
+    "position": [
+      343,
+      346
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "521 10^9/L",
+    "position": [
+      361,
+      371
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Glucose máu",
+    "position": [
+      394,
+      405
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "4,8 mmol/L",
+    "position": [
+      420,
+      430
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  }
+]

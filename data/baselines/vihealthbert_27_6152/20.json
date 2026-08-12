@@ -1,0 +1,167 @@
+[
+  {
+    "text": "niêm mạc hồngi",
+    "position": [
+      1066,
+      1080
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Đau bụng",
+    "position": [
+      1082,
+      1090
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Buồn nôn",
+    "position": [
+      1105,
+      1113
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nôn ra thức ăn",
+    "position": [
+      1115,
+      1129
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dạ dày",
+    "position": [
+      1138,
+      1144
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Huyết áp:",
+    "position": [
+      1170,
+      1179
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "30/76 mmHg",
+    "position": [
+      1180,
+      1190
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Mạch: 93 l/p",
+    "position": [
+      1191,
+      1203
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "độ : 36.3 độ C",
+    "position": [
+      1210,
+      1224
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Nhịp thở:",
+    "position": [
+      1225,
+      1234
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "l/p",
+    "position": [
+      1238,
+      1241
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "compazine",
+    "position": [
+      1287,
+      1296
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "203546"
+    ]
+  },
+  {
+    "text": "aleve",
+    "position": [
+      1300,
+      1305
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "215101"
+    ]
+  },
+  {
+    "text": "morphineoral",
+    "position": [
+      1335,
+      1347
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7052"
+    ]
+  },
+  {
+    "text": "lorazepam",
+    "position": [
+      1352,
+      1361
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6470"
+    ]
+  },
+  {
+    "text": "yếu",
+    "position": [
+      1463,
+      1466
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      2071,
+      2074
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "text": "dại",
+    "position": [
+      1086,
+      1089
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "i.",
+    "position": [
+      1300,
+      1302
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "yếu",
+    "position": [
+      1534,
+      1537
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "bumetanide 2mg iv",
+    "position": [
+      2178,
+      2195
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1808"
+    ]
+  },
+  {
+    "text": "vancomycin 1 g",
+    "position": [
+      2211,
+      2225
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11124"
+    ]
+  },
+  {
+    "text": "levofloxacin 750mg iv",
+    "position": [
+      2244,
+      2265
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "82122"
+    ]
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "text": "buồn nôn",
+    "position": [
+      73,
+      81
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      85,
+      94
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "ôn ra máu",
+    "position": [
+      119,
+      128
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "dạ dày ruột do virus",
+    "position": [
+      149,
+      169
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ôn ra máu",
+    "position": [
+      177,
+      186
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "chứng ruột kích thích",
+    "position": [
+      230,
+      251
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chứng ruột kích thích",
+    "position": [
+      272,
+      293
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi (cách đây vài năm, phát hiện loét tá tràng)",
+    "position": [
+      353,
+      404
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Nội soi (cho thấy nhiều loét tá tràng và hồi tràng)",
+    "position": [
+      411,
+      462
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      469,
+      476
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      625,
+      635
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "Nôn",
+    "position": [
+      726,
+      729
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      809,
+      817
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      821,
+      830
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dạ dày ruột do virus",
+    "position": [
+      847,
+      867
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ăn uống",
+    "position": [
+      899,
+      919
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đường miệng",
+    "position": [
+      924,
+      935
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      937,
+      945
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      949,
+      958
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dạ dày ruột",
+    "position": [
+      980,
+      991
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nôn",
+    "position": [
+      1008,
+      1011
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dạ dày ruột",
+    "position": [
+      1040,
+      1051
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nôn",
+    "position": [
+      1068,
+      1071
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ra máu",
+    "position": [
+      1072,
+      1078
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      1115,
+      1123
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      1127,
+      1130
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      1168,
+      1178
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      1244,
+      1252
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      1256,
+      1265
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "chứng ruột kích thích",
+    "position": [
+      1281,
+      1302
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tá tràng",
+    "position": [
+      1319,
+      1327
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      1332,
+      1339
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "không thể giữ được",
+    "position": [
+      1362,
+      1380
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dạ dày ruột do virus",
+    "position": [
+      1411,
+      1431
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "dạ dày ruột",
+    "position": [
+      1465,
+      1476
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ăn uống qua đường miệng",
+    "position": [
+      1496,
+      1532
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      1534,
+      1542
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      1544,
+      1553
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nôn ra máu.",
+    "position": [
+      1555,
+      1566
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      1567,
+      1574
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "trà",
+    "position": [
+      1611,
+      1614
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      1695,
+      1705
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      1753,
+      1763
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      1776,
+      1784
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nôn ra máu",
+    "position": [
+      1788,
+      1798
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nôn ra máu.",
+    "position": [
+      1846,
+      1857
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Nôn",
+    "position": [
+      1894,
+      1897
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Ăn uống kém.",
+    "position": [
+      1911,
+      1923
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dạ dày ruột do virus",
+    "position": [
+      2030,
+      2050
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ăn uống qua đường miệng",
+    "position": [
+      2082,
+      2118
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      2120,
+      2128
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      2132,
+      2141
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dạ dày ruột",
+    "position": [
+      2163,
+      2174
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      2204,
+      2207
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dạ dày ruột",
+    "position": [
+      2236,
+      2247
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      2264,
+      2271
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "dạ dày ruột",
+    "position": [
+      2335,
+      2346
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dạ dày ruột",
+    "position": [
+      2431,
+      2442
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      2473,
+      2483
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      2541,
+      2549
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      2553,
+      2556
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      2594,
+      2604
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "thư tuyến giáp",
+    "position": [
+      2629,
+      2643
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thái",
+    "position": [
+      2960,
+      2964
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "thái bình giá",
+    "position": [
+      3025,
+      3038
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "thực quản",
+    "position": [
+      3514,
+      3523
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

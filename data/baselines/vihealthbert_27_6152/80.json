@@ -1,0 +1,98 @@
+[
+  {
+    "text": "bệnh gút",
+    "position": [
+      64,
+      72
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "M10.9"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      115,
+      118
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "sưng",
+    "position": [
+      788,
+      792
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tấy đỏ",
+    "position": [
+      794,
+      800
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "trở vận động.",
+    "position": [
+      863,
+      876
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "xơ gan",
+    "position": [
+      1019,
+      1025
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K74.6"
+    ]
+  },
+  {
+    "text": "cổ trướng",
+    "position": [
+      1063,
+      1072
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "position": [
+      1076,
+      1095
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J90"
+    ]
+  },
+  {
+    "text": "bất thường",
+    "position": [
+      1196,
+      1206
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  }
+]

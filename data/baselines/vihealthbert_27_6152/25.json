@@ -1,0 +1,304 @@
+[
+  {
+    "text": "ì nước",
+    "position": [
+      256,
+      262
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      386,
+      394
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "máu",
+    "position": [
+      408,
+      411
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "trễ kinh",
+    "position": [
+      416,
+      424
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "thư cổ tử",
+    "position": [
+      899,
+      908
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ám",
+    "position": [
+      1242,
+      1244
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "da",
+    "position": [
+      1261,
+      1263
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "trạng",
+    "position": [
+      1292,
+      1297
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "cảm xúc",
+    "position": [
+      1299,
+      1306
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "chồn",
+    "position": [
+      1321,
+      1325
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "lo lắng",
+    "position": [
+      1327,
+      1334
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "bứt rứt trong người",
+    "position": [
+      1336,
+      1355
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "giảm ham muốn",
+    "position": [
+      1361,
+      1374
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "lãnh cảm",
+    "position": [
+      1376,
+      1384
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "suy giảm hưng phấn đối với tình dục",
+    "position": [
+      1386,
+      1421
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "cảm gia đì",
+    "position": [
+      1442,
+      1452
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1494,
+      1500
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1504,
+      1507
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "sưng",
+    "position": [
+      1649,
+      1653
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1657,
+      1660
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1694,
+      1700
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau khi",
+    "position": [
+      1741,
+      1748
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1778,
+      1784
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [
+      1829,
+      1836
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "cephalexin",
+    "position": [
+      1930,
+      1940
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2231"
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1983,
+      1989
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      2008,
+      2017
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      2154,
+      2160
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      2203,
+      2206
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      2232,
+      2241
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      2254,
+      2257
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      2370,
+      2376
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

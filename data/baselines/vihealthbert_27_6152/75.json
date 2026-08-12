@@ -1,0 +1,42 @@
+[
+  {
+    "text": "sinh thiết",
+    "position": [
+      90,
+      100
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      315,
+      318
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      412,
+      419
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "nấm",
+    "position": [
+      459,
+      462
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

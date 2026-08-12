@@ -1,0 +1,46 @@
+[
+  {
+    "text": "ngạt mũi",
+    "position": [
+      69,
+      77
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "gây mất tầm nhìn",
+    "position": [
+      106,
+      122
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "điếc",
+    "position": [
+      138,
+      142
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "có máu đỏ tươi trong phân",
+    "position": [
+      177,
+      202
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  }
+]

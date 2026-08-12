@@ -1,0 +1,226 @@
+[
+  {
+    "text": "lành về tuyến vú",
+    "position": [
+      72,
+      88
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xơ tuyến vú",
+    "position": [
+      95,
+      106
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nang tuyến vú",
+    "position": [
+      113,
+      126
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "teo niêm mạc",
+    "position": [
+      705,
+      717
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thần kinh",
+    "position": [
+      844,
+      853
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dị cảm",
+    "position": [
+      858,
+      864
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "giảm cảm giác vị thế",
+    "position": [
+      867,
+      887
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "khả năng trí óc giảm",
+    "position": [
+      889,
+      909
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "hạ huyết áp tư thế đứng",
+    "position": [
+      911,
+      934
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "thư",
+    "position": [
+      962,
+      965
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nang tuyến vú",
+    "position": [
+      1024,
+      1037
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xơ tuyến vú",
+    "position": [
+      1041,
+      1052
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nang tuyến vú",
+    "position": [
+      1153,
+      1166
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xơ tuyến vú",
+    "position": [
+      1170,
+      1181
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xơ tuyến v",
+    "position": [
+      1271,
+      1281
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nang tuyến vú",
+    "position": [
+      1286,
+      1299
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "position": [
+      1421,
+      1438
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Tăng",
+    "position": [
+      1440,
+      1444
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "gánh nhẹ tuần",
+    "position": [
+      1445,
+      1458
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "position": [
+      1470,
+      1489
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J90"
+    ]
+  },
+  {
+    "text": "to",
+    "position": [
+      1507,
+      1509
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "xơ tuyến vú",
+    "position": [
+      1533,
+      1544
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nang tuyến vú",
+    "position": [
+      1548,
+      1561
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

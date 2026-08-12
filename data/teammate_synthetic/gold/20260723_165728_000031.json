@@ -1,0 +1,38 @@
+[
+  {
+    "text": "phân có mùi tanh",
+    "position": [
+      166,
+      182
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "không tập trung",
+    "position": [
+      216,
+      231
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "zinc glycinate 20 mg",
+    "position": [
+      376,
+      396
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2603043"
+    ]
+  }
+]

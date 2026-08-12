@@ -1,0 +1,76 @@
+[
+  {
+    "text": "õm vào trong;",
+    "position": [
+      158,
+      171
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "cảm giác nhịp tim khó chịu bất thường",
+    "position": [
+      175,
+      212
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dasatinib 20 mg oral tablet",
+    "position": [
+      236,
+      263
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "643105"
+    ]
+  },
+  {
+    "text": "brivaracetam 10mg/ml po qd",
+    "position": [
+      266,
+      292
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1739788"
+    ]
+  },
+  {
+    "text": "velagliflozin 15 mg/ml",
+    "position": [
+      295,
+      317
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2665892"
+    ]
+  },
+  {
+    "text": "rucaparib 200 mg po qd",
+    "position": [
+      320,
+      342
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1862595"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "text": "táo bón nặng",
+    "position": [
+      255,
+      267
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau lưng ngực",
+    "position": [
+      337,
+      350
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "cảm giác không ngon miệng",
+    "position": [
+      445,
+      470
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "rung rinh",
+    "position": [
+      522,
+      531
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "WBC",
+    "position": [
+      558,
+      561
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "4,9 10^9/L",
+    "position": [
+      576,
+      586
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Glucose máu",
+    "position": [
+      595,
+      606
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "6,5 mmol/L",
+    "position": [
+      621,
+      631
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  }
+]

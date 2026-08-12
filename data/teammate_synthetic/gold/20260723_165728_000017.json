@@ -1,0 +1,124 @@
+[
+  {
+    "text": "nhịp tim bất thường",
+    "position": [
+      198,
+      217
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "o lắng",
+    "position": [
+      248,
+      254
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nâng hai cánh tay qua đầu",
+    "position": [
+      304,
+      329
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "rối loạn kinh nguyệt",
+    "position": [
+      374,
+      394
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "hoại tử xương",
+    "position": [
+      521,
+      534
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M87"
+    ]
+  },
+  {
+    "text": "tê tay chân",
+    "position": [
+      591,
+      602
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "azelaic acid 5 mg",
+    "position": [
+      626,
+      643
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1145104"
+    ]
+  },
+  {
+    "text": "đa ối",
+    "position": [
+      695,
+      700
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "O40"
+    ]
+  },
+  {
+    "text": "viêm tuyến mang tai",
+    "position": [
+      704,
+      723
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "HGB",
+    "position": [
+      746,
+      749
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "110 g/L",
+    "position": [
+      751,
+      758
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  }
+]

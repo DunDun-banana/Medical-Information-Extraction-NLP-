@@ -1,0 +1,275 @@
+[
+  {
+    "text": "tai",
+    "position": [
+      96,
+      99
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "vành tai đầy đủ",
+    "position": [
+      108,
+      123
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nói",
+    "position": [
+      255,
+      258
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "thường",
+    "position": [
+      264,
+      270
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "sinh hoạt bình thường",
+    "position": [
+      276,
+      297
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "triển đều",
+    "position": [
+      304,
+      313
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tai",
+    "position": [
+      380,
+      383
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "triển",
+    "position": [
+      395,
+      400
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "u",
+    "position": [
+      403,
+      404
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "tai",
+    "position": [
+      473,
+      476
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ứng",
+    "position": [
+      513,
+      516
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "bì",
+    "position": [
+      551,
+      553
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "chọc.",
+    "position": [
+      718,
+      723
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nghe",
+    "position": [
+      833,
+      837
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tật thiểu sản vành tai",
+    "position": [
+      1045,
+      1067
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ịt ống tai ngoài bẩm si",
+    "position": [
+      1072,
+      1095
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kinh thính giác",
+    "position": [
+      1155,
+      1170
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "xạ",
+    "position": [
+      1219,
+      1221
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "thanh",
+    "position": [
+      1230,
+      1235
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "t",
+    "position": [
+      1344,
+      1345
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "túng",
+    "position": [
+      1395,
+      1399
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "định",
+    "position": [
+      1408,
+      1412
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "âm thanh",
+    "position": [
+      1419,
+      1427
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "âm",
+    "position": [
+      1594,
+      1596
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "vành",
+    "position": [
+      1605,
+      1609
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "chữ",
+    "position": [
+      1613,
+      1616
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "thính lực",
+    "position": [
+      1650,
+      1659
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

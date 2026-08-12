@@ -1,0 +1,85 @@
+[
+  {
+    "text": "yếu",
+    "position": [
+      471,
+      474
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      834,
+      837
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "sản tuyến bã",
+    "position": [
+      855,
+      867
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hóa nang",
+    "position": [
+      880,
+      888
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực trái",
+    "position": [
+      1115,
+      1128
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau sau xương ức",
+    "position": [
+      1141,
+      1157
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      1603,
+      1606
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      1648,
+      1651
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      1659,
+      1662
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

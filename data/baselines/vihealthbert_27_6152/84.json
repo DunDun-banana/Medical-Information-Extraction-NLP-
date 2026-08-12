@@ -1,0 +1,51 @@
+[
+  {
+    "text": "yếu",
+    "position": [
+      209,
+      212
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      306,
+      313
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "nấm",
+    "position": [
+      353,
+      356
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hôi",
+    "position": [
+      752,
+      755
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "hô",
+    "position": [
+      923,
+      925
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

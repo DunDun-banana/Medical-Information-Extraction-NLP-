@@ -1,0 +1,32 @@
+[
+  {
+    "text": "tụ dịch gây khó chịu",
+    "position": [
+      24,
+      44
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "thực quản barrett",
+    "position": [
+      108,
+      125
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K22.7"
+    ]
+  },
+  {
+    "text": "rất mệt mỏi",
+    "position": [
+      175,
+      186
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

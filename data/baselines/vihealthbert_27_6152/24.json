@@ -1,0 +1,439 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [
+      49,
+      56
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      58,
+      65
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "vàng mắt",
+    "position": [
+      67,
+      75
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "trùng nhiễm độ",
+    "position": [
+      197,
+      211
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nóng",
+    "position": [
+      256,
+      264
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "rét",
+    "position": [
+      281,
+      284
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "run",
+    "position": [
+      303,
+      306
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "paracetamol",
+    "position": [
+      320,
+      331
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "161"
+    ]
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      400,
+      407
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "vàng niêm mạ",
+    "position": [
+      409,
+      421
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "mỏi",
+    "position": [
+      452,
+      455
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "t",
+    "position": [
+      508,
+      509
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      515,
+      522
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ngủ",
+    "position": [
+      527,
+      530
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "gan vàng da ứ mật",
+    "position": [
+      663,
+      680
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "niêm mạc",
+    "position": [
+      715,
+      723
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tiểu",
+    "position": [
+      763,
+      767
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "sậm",
+    "position": [
+      800,
+      803
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "vối.",
+    "position": [
+      813,
+      817
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      860,
+      867
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "tiểu",
+    "position": [
+      879,
+      883
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Bilirubin",
+    "position": [
+      1053,
+      1062
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Ure",
+    "position": [
+      1115,
+      1118
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "5,9 mmol/l",
+    "position": [
+      1120,
+      1130
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Creatinin",
+    "position": [
+      1132,
+      1141
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "89",
+    "position": [
+      1143,
+      1145
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      1410,
+      1417
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "vàng mắt",
+    "position": [
+      1419,
+      1427
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "mệt mỏi hết",
+    "position": [
+      1712,
+      1723
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      1725,
+      1732
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "ăn ngủ được",
+    "position": [
+      1743,
+      1754
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "đánh răng",
+    "position": [
+      1756,
+      1765
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "máu",
+    "position": [
+      1777,
+      1780
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "tiểu tiện 1000ml",
+    "position": [
+      1782,
+      1798
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nước tiểu vàng nhẹ",
+    "position": [
+      1804,
+      1822
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đại tiện phân thành khuôn.",
+    "position": [
+      1824,
+      1850
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "cảm giác",
+    "position": [
+      1962,
+      1970
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "khó chịu vùng ngực",
+    "position": [
+      1970,
+      1988
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "Glucose",
+    "position": [
+      1997,
+      2004
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "5%",
+    "position": [
+      2005,
+      2007
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "ALT",
+    "position": [
+      2193,
+      2196
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "AST",
+    "position": [
+      2198,
+      2201
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "ALT",
+    "position": [
+      2295,
+      2298
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "AST",
+    "position": [
+      2300,
+      2303
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  }
+]

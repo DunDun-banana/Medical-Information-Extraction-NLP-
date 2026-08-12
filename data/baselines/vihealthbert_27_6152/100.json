@@ -1,0 +1,75 @@
+[
+  {
+    "text": "sản giật",
+    "position": [
+      589,
+      597
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O15"
+    ]
+  },
+  {
+    "text": "sản giật",
+    "position": [
+      621,
+      629
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O15"
+    ]
+  },
+  {
+    "text": "sản giậ",
+    "position": [
+      669,
+      676
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy",
+    "position": [
+      777,
+      781
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "u.",
+    "position": [
+      784,
+      786
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "aspirin",
+    "position": [
+      1114,
+      1121
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "máu đỏ tươi",
+    "position": [
+      1231,
+      1242
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "u nguyên bào gan",
+    "position": [
+      64,
+      80
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "C22.2"
+    ]
+  },
+  {
+    "text": "khó nuốt",
+    "position": [
+      103,
+      111
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R13"
+    ]
+  }
+]

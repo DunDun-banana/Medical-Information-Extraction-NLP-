@@ -1,0 +1,39 @@
+[
+  {
+    "text": "máu cơ tim cục bộ",
+    "position": [
+      1004,
+      1021
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ứng",
+    "position": [
+      1241,
+      1244
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "mày đay",
+    "position": [
+      1367,
+      1374
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      1661,
+      1664
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

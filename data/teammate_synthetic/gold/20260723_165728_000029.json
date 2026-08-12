@@ -1,0 +1,64 @@
+[
+  {
+    "text": "coal tar 0.02 mg bôi ngoài da daily",
+    "position": [
+      24,
+      59
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "798505"
+    ]
+  },
+  {
+    "text": "tobramycin 0.003 mg/mg ophthalmic ointment",
+    "position": [
+      83,
+      125
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "313414"
+    ]
+  },
+  {
+    "text": "levamlodipine 2.5 mg po mỗi ngày",
+    "position": [
+      128,
+      160
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2377367"
+    ]
+  },
+  {
+    "text": "estradiol 0.5 mg po daily",
+    "position": [
+      163,
+      188
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "205909"
+    ]
+  },
+  {
+    "text": "tamoxifen 2mg/ml po mỗi ngày",
+    "position": [
+      191,
+      219
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "389230"
+    ]
+  }
+]

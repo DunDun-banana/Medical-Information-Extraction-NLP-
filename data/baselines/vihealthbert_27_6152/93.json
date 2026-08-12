@@ -1,0 +1,121 @@
+[
+  {
+    "text": "hợp",
+    "position": [
+      201,
+      204
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "cảm giác rợn người",
+    "position": [
+      206,
+      224
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "tim",
+    "position": [
+      399,
+      402
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "người",
+    "position": [
+      440,
+      445
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "hồi hộp",
+    "position": [
+      447,
+      454
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "đập",
+    "position": [
+      474,
+      477
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "mạnh",
+    "position": [
+      482,
+      486
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "mang",
+    "position": [
+      739,
+      743
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "giác",
+    "position": [
+      786,
+      790
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "căng thẳng",
+    "position": [
+      992,
+      1002
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "áp",
+    "position": [
+      1216,
+      1218
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

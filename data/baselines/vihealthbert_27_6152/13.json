@@ -1,0 +1,47 @@
+[
+  {
+    "text": "dại",
+    "position": [
+      1075,
+      1078
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      1520,
+      1523
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      2127,
+      2130
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau ngực trái",
+    "position": [
+      2243,
+      2256
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau sau xương ức",
+    "position": [
+      2269,
+      2285
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

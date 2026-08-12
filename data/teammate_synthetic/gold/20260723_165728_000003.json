@@ -1,0 +1,57 @@
+[
+  {
+    "text": "nhồi máu cơ tim cấp",
+    "position": [
+      218,
+      237
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I21"
+    ]
+  },
+  {
+    "text": "PLT",
+    "position": [
+      334,
+      337
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "336 10^9/L",
+    "position": [
+      350,
+      360
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "penicillin",
+    "position": [
+      387,
+      397
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Y40.0"
+    ]
+  },
+  {
+    "text": "rối loạn huyết động",
+    "position": [
+      427,
+      446
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  }
+]

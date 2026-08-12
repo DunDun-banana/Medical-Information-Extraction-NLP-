@@ -1,0 +1,28 @@
+[
+  {
+    "text": "magnesium oxide 440 mg uống qd",
+    "position": [
+      21,
+      51
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2707337"
+    ]
+  },
+  {
+    "text": "24 HR tofacitinib 11 mg uống mỗi ngày",
+    "position": [
+      74,
+      111
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1741049"
+    ]
+  }
+]

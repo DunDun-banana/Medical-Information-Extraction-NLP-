@@ -1,0 +1,56 @@
+[
+  {
+    "text": "clomipramine hydrochloride 40mg po qd",
+    "position": [
+      78,
+      115
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2375715"
+    ]
+  },
+  {
+    "text": "perampanel 2 mg po qd",
+    "position": [
+      120,
+      141
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1356557"
+    ]
+  },
+  {
+    "text": "24 HR levomilnacipran 20mg uống daily",
+    "position": [
+      146,
+      183
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1433227"
+    ]
+  },
+  {
+    "text": "ibuprofen 600 mg uống qd",
+    "position": [
+      205,
+      229
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "206913"
+    ]
+  }
+]

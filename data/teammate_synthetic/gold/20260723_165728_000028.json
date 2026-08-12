@@ -1,0 +1,58 @@
+[
+  {
+    "text": "24 HR lacosamide 150mg 1 viên/ngày",
+    "position": [
+      24,
+      58
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2637027"
+    ]
+  },
+  {
+    "text": "hyaluronidase-nvhy 2000 unt/ml",
+    "position": [
+      61,
+      91
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2700790"
+    ]
+  },
+  {
+    "text": "risperidone 0.25mg po daily",
+    "position": [
+      94,
+      121
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "312828"
+    ]
+  },
+  {
+    "text": "24 HR amphetamine 6.3 mg uống mỗi ngày",
+    "position": [
+      124,
+      162
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1739833"
+    ]
+  }
+]

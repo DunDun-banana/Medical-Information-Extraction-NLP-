@@ -1,0 +1,324 @@
+[
+  {
+    "text": "đau",
+    "position": [
+      113,
+      116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      138,
+      141
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "uống",
+    "position": [
+      211,
+      215
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      297,
+      304
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      550,
+      553
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      659,
+      662
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "giác",
+    "position": [
+      695,
+      699
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "ỏe",
+    "position": [
+      702,
+      704
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      1030,
+      1038
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      1054,
+      1057
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      1087,
+      1090
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      1161,
+      1164
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      1336,
+      1339
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "position": [
+      1347,
+      1354
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1491,
+      1494
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "bao",
+    "position": [
+      1522,
+      1525
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [
+      1886,
+      1893
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      1894,
+      1901
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "ợ nóng",
+    "position": [
+      2346,
+      2352
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "trào ngược",
+    "position": [
+      2358,
+      2368
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ngược dạ dày thực quản",
+    "position": [
+      2363,
+      2385
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương vùng âm",
+    "position": [
+      2709,
+      2727
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Tổn thương",
+    "position": [
+      2754,
+      2764
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau đớn",
+    "position": [
+      2772,
+      2779
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "thương",
+    "position": [
+      2801,
+      2807
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "bóng nước",
+    "position": [
+      2813,
+      2822
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dịch giống mủ có màu vàng  chảy ra từ tổn thương",
+    "position": [
+      2875,
+      2923
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [
+      3033,
+      3040
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      3041,
+      3048
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      3125,
+      3128
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "dạ",
+    "position": [
+      3172,
+      3174
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  }
+]

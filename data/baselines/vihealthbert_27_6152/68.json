@@ -1,0 +1,166 @@
+[
+  {
+    "text": "mãn tí",
+    "position": [
+      24,
+      30
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "động mạch vành",
+    "position": [
+      39,
+      53
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lý thần kinh ngoại biên",
+    "position": [
+      60,
+      83
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      160,
+      167
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      199,
+      206
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nh",
+    "position": [
+      243,
+      245
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      248,
+      255
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Khó thở",
+    "position": [
+      258,
+      265
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "lại",
+    "position": [
+      298,
+      301
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "khăn",
+    "position": [
+      306,
+      310
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Đau",
+    "position": [
+      341,
+      344
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "lý thần kinh ngoại biên",
+    "position": [
+      366,
+      389
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ba thân động mạch vành",
+    "position": [
+      655,
+      677
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin",
+    "position": [
+      799,
+      808
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "151392"
+    ]
+  },
+  {
+    "text": "amoxicillin",
+    "position": [
+      810,
+      821
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "723"
+    ]
+  },
+  {
+    "text": "Augmentin",
+    "position": [
+      1360,
+      1369
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "151392"
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "text": "suy thận cấp",
+    "position": [
+      71,
+      83
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "N17"
+    ]
+  },
+  {
+    "text": "tê liệt",
+    "position": [
+      105,
+      112
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "tê ngứa bàn tay",
+    "position": [
+      200,
+      215
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nắp thanh quản bị sưng lên",
+    "position": [
+      217,
+      243
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "yếu người",
+    "position": [
+      245,
+      254
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "bàn chân",
+    "position": [
+      256,
+      264
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "tiếng rít",
+    "position": [
+      270,
+      279
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "HGB",
+    "position": [
+      303,
+      306
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "189 g/L",
+    "position": [
+      318,
+      325
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "PLT",
+    "position": [
+      328,
+      331
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "189 10^9/L",
+    "position": [
+      346,
+      356
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "WBC",
+    "position": [
+      359,
+      362
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "11,8 10^9/L",
+    "position": [
+      378,
+      389
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  }
+]

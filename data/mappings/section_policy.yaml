@@ -1,0 +1,189 @@
+PAST_HISTORY:
+  role: history
+  symptom_alias_min_priority: 110
+  diagnosis_structural: true
+  assertion_history: true
+  symptom_rule_trust: model_support
+PAST_PROCEDURE:
+  role: history_procedure
+  symptom_alias_min_priority: 110
+  assertion_history: true
+  symptom_rule_trust: model_support
+PAST_MEDICATION:
+  role: history_medication
+  symptom_alias_min_priority: 110
+  assertion_history: true
+  symptom_rule_trust: model_support
+CURRENT_ILLNESS:
+  role: symptom_context
+  symptom_alias_min_priority: 0
+  symptom_rule_trust: trusted
+ADMISSION_REASON:
+  role: symptom_context
+  symptom_alias_min_priority: 0
+  symptom_rule_trust: trusted
+CURRENT_SYMPTOMS:
+  role: symptom_context
+  symptom_alias_min_priority: 0
+  symptom_structural: true
+  symptom_rule_trust: trusted
+HOSPITAL_ASSESSMENT:
+  role: mixed_clinical
+  symptom_alias_min_priority: 90
+  diagnosis_structural: true
+  symptom_rule_trust: model_support
+LAB_RESULT:
+  role: laboratory
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+IMAGING:
+  role: imaging
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+DIAGNOSIS:
+  role: diagnosis
+  symptom_alias_min_priority: 110
+  diagnosis_structural: true
+  symptom_rule_trust: model_support
+TREATMENT:
+  role: treatment
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+SYMPTOM_CHARACTERISTICS:
+  role: symptom_context
+  symptom_alias_min_priority: 0
+  symptom_structural: true
+  symptom_rule_trust: trusted
+DISEASE_COURSE:
+  role: symptom_context
+  symptom_alias_min_priority: 100
+  symptom_structural: true
+  diagnosis_structural: true
+  symptom_rule_trust: model_support
+PRE_ADMISSION_EVENTS:
+  role: symptom_context
+  symptom_alias_min_priority: 0
+  symptom_structural: true
+  symptom_rule_trust: trusted
+PRE_ADMISSION_STATUS:
+  role: symptom_context
+  symptom_alias_min_priority: 0
+  symptom_structural: true
+  symptom_rule_trust: trusted
+RISK_FACTORS:
+  role: risk_context
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+PHYSICAL_EXAM:
+  role: physical_exam
+  symptom_alias_min_priority: 90
+  symptom_structural: true
+  symptom_rule_trust: model_support
+PROCEDURES:
+  role: procedure
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+ONSET:
+  role: symptom_context
+  symptom_alias_min_priority: 0
+  symptom_rule_trust: trusted
+CURRENT_SYMPTOMS_EXTRA:
+  role: symptom_context
+  symptom_alias_min_priority: 0
+  symptom_structural: true
+  symptom_rule_trust: trusted
+LAB_RESULT_EXTRA:
+  role: laboratory
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+IMAGING_EXTRA:
+  role: imaging
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+DIAGNOSIS_EXTRA:
+  role: diagnosis
+  symptom_alias_min_priority: 110
+  diagnosis_structural: true
+  symptom_rule_trust: model_support
+PROCEDURES_EXTRA:
+  role: procedure
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+TREATMENT_EXTRA:
+  role: treatment
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+USER_QUESTION:
+  role: user_question
+  symptom_alias_min_priority: 0
+  symptom_rule_trust: trusted
+DOCTOR_ANSWER:
+  role: doctor_answer
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+FAMILY_HISTORY:
+  role: family_history
+  symptom_alias_min_priority: 110
+  diagnosis_structural: true
+  assertion_family: true
+  symptom_rule_trust: model_support
+ALLERGY_HISTORY:
+  role: allergy_history
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+CURRENT_MEDICATION:
+  role: current_medication
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+UNKNOWN:
+  role: unknown
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+PROGNOSIS:
+  role: prognosis
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+COMPLICATIONS:
+  role: complication
+  symptom_alias_min_priority: 100
+  diagnosis_structural: true
+  symptom_structural: true
+  symptom_rule_trust: model_support
+FAQ_SYMPTOMS:
+  role: faq_symptom_context
+  symptom_alias_min_priority: 110
+  symptom_structural: true
+  symptom_rule_trust: model_support
+FAQ_RISK_FACTORS:
+  role: faq_risk_context
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+FAQ_TREATMENT:
+  role: faq_treatment
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+FAQ_DIAGNOSIS:
+  role: faq_diagnosis
+  symptom_alias_min_priority: 110
+  diagnosis_structural: true
+  symptom_rule_trust: model_support
+FAQ_LAB_RESULT:
+  role: faq_laboratory
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+VITAL_SIGNS:
+  role: vital_signs
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+MEDICATION_ORDERS:
+  role: medication_orders
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+FAQ_PREVENTION:
+  role: faq_prevention
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support
+GENERAL_ADVICE:
+  role: general_advice
+  symptom_alias_min_priority: 110
+  symptom_rule_trust: model_support

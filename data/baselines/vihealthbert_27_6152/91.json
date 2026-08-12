@@ -1,0 +1,295 @@
+[
+  {
+    "text": "chứng turner, không đặc hiệu",
+    "position": [
+      52,
+      80
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      87,
+      100
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "Ung thư đại tràng",
+    "position": [
+      146,
+      163
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "C18.9"
+    ]
+  },
+  {
+    "text": "Thuyên tắc phổi",
+    "position": [
+      178,
+      193
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I26.9"
+    ]
+  },
+  {
+    "text": "coumadin",
+    "position": [
+      204,
+      212
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11289"
+    ]
+  },
+  {
+    "text": "Thuyên tắc phổi",
+    "position": [
+      222,
+      237
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I26.9"
+    ]
+  },
+  {
+    "text": "coumadin",
+    "position": [
+      248,
+      256
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11289"
+    ]
+  },
+  {
+    "text": "coumadin",
+    "position": [
+      355,
+      363
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "11289"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      412,
+      419
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      455,
+      462
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đờm",
+    "position": [
+      482,
+      485
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      511,
+      513
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      532,
+      535
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "position": [
+      548,
+      555
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      568,
+      576
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      590,
+      597
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đổi",
+    "position": [
+      615,
+      618
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      633,
+      636
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [
+      669,
+      689
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đánh trống ngực",
+    "position": [
+      702,
+      717
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      730,
+      737
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nhịp nhanh",
+    "position": [
+      766,
+      776
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      789,
+      797
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "khó nuốt",
+    "position": [
+      945,
+      953
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "metoprolol",
+    "position": [
+      1346,
+      1356
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6918"
+    ]
+  },
+  {
+    "text": "cảm thấy khỏe",
+    "position": [
+      1383,
+      1396
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

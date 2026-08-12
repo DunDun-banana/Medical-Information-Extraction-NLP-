@@ -1,0 +1,46 @@
+[
+  {
+    "text": "mất sức khi gắng sức",
+    "position": [
+      74,
+      94
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "giảm tầm nhìn",
+    "position": [
+      96,
+      109
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "sụt cân từ từ",
+    "position": [
+      111,
+      124
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "chậm lành vết thương",
+    "position": [
+      160,
+      180
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  }
+]

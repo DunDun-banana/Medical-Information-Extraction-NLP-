@@ -1,0 +1,68 @@
+surface_form,canonical_name,category,priority
+siêu âm tim qua thành ngực,transthoracic echocardiography,imaging,120
+chụp cắt lớp vi tính sọ não,head computed tomography,imaging,120
+chụp x-quang ngực,chest radiography,imaging,120
+x-quang ngực,chest radiography,imaging,115
+phân tích nước tiểu,urinalysis,laboratory,120
+tổng phân tích nước tiểu,urinalysis,laboratory,125
+điện tâm đồ,electrocardiogram,cardiology,120
+monitor holter,holter monitoring,cardiology,120
+holter,holter monitoring,cardiology,105
+ecg,electrocardiogram,cardiology,115
+ekg,electrocardiogram,cardiology,115
+siêu âm tim,echocardiography,imaging,110
+siêu âm bụng,abdominal ultrasound,imaging,110
+siêu âm,ultrasound,imaging,70
+ct ngực,chest computed tomography,imaging,115
+ct sọ não,head computed tomography,imaging,115
+ct bụng,abdominal computed tomography,imaging,115
+mri não,brain magnetic resonance imaging,imaging,115
+mri vùng chậu,pelvic magnetic resonance imaging,imaging,115
+mri,magnetic resonance imaging,imaging,70
+nội soi đại tràng,colonoscopy,procedure,110
+nội soi dạ dày,gastroscopy,procedure,110
+nội soi,endooscopy,procedure,70
+sinh thiết,biopsy,pathology,100
+cấy nước tiểu,urine culture,microbiology,110
+cấy máu,blood culture,microbiology,110
+canxi ion hóa,ionized calcium,laboratory,110
+bilirubin toàn phần,total bilirubin,laboratory,110
+phosphatase kiềm,alkaline phosphatase,laboratory,110
+huyết cầu tố,hemoglobin,laboratory,100
+bạch cầu,white blood cell count,laboratory,90
+tiểu cầu,platelet count,laboratory,90
+đường huyết,glucose,laboratory,90
+creatinine,creatinine,laboratory,110
+creatinin,creatinine,laboratory,110
+troponin,troponin,laboratory,110
+lactate,lactate,laboratory,110
+bilirubin,bilirubin,laboratory,100
+phosphate,phosphate,laboratory,100
+photpho,phosphate,laboratory,100
+phospho,phosphate,laboratory,100
+canxi,calcium,laboratory,100
+calci,calcium,laboratory,100
+natri,sodium,laboratory,100
+kali,potassium,laboratory,100
+glucose,glucose,laboratory,100
+ure,urea,laboratory,100
+crp,c-reactive protein,laboratory,110
+bnp,b-type natriuretic peptide,laboratory,110
+iga,immunoglobulin A,laboratory,100
+cea,carcinoembryonic antigen,laboratory,100
+neut%,neutrophil percentage,laboratory,110
+lyph%,lymphocyte percentage,laboratory,110
+lymph%,lymphocyte percentage,laboratory,110
+twbc,total white blood cell count,laboratory,110
+wbc,white blood cell count,laboratory,110
+hgb,hemoglobin,laboratory,110
+hct,hematocrit,laboratory,110
+plt,platelet count,laboratory,110
+inr,international normalized ratio,laboratory,110
+bun,blood urea nitrogen,laboratory,110
+ast,aspartate aminotransferase,laboratory,110
+alt,alanine aminotransferase,laboratory,110
+alp,alkaline phosphatase,laboratory,110
+xét nghiệm máu,blood test,laboratory,130
+xét nghiệm thiếu men g6pd,g6pd deficiency test,laboratory,150
+xét nghiệm sàng lọc thiếu men g6pd,g6pd deficiency screening test,laboratory,155

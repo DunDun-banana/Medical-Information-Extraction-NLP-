@@ -1,0 +1,320 @@
+[
+  {
+    "text": "giãn động mạch vành",
+    "position": [
+      571,
+      590
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nhồi máu cơ tim",
+    "position": [
+      600,
+      615
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "I21.9"
+    ]
+  },
+  {
+    "text": "tắc mạch vành",
+    "position": [
+      626,
+      639
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "suy tim",
+    "position": [
+      644,
+      651
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
+    "text": "mạch máu",
+    "position": [
+      692,
+      700
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đỏ",
+    "position": [
+      1538,
+      1540
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Viêm",
+    "position": [
+      1544,
+      1548
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "bên",
+    "position": [
+      1559,
+      1562
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "èn.",
+    "position": [
+      1584,
+      1587
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "Thay đổi niêm mạc miệng",
+    "position": [
+      1592,
+      1615
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ứt",
+    "position": [
+      1628,
+      1630
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "máu.",
+    "position": [
+      1642,
+      1646
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "như dâu tây.",
+    "position": [
+      1658,
+      1670
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "n thương",
+    "position": [
+      1688,
+      1696
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đầu chi",
+    "position": [
+      1699,
+      1706
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ng",
+    "position": [
+      1712,
+      1714
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "gan",
+    "position": [
+      1744,
+      1747
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đỏ",
+    "position": [
+      1831,
+      1833
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đa xơ cứng",
+    "position": [
+      1921,
+      1931
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Ảo giác do rượu",
+    "position": [
+      1971,
+      1986
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "suy nghĩ)",
+    "position": [
+      1988,
+      1997
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "CRP",
+    "position": [
+      2057,
+      2060
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Cấy máu",
+    "position": [
+      2118,
+      2125
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Siêu âm tim (quan trọng nhất để đánh giá động mạch vành)",
+    "position": [
+      2144,
+      2200
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "ECG",
+    "position": [
+      2204,
+      2207
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "điện tâm đồ",
+    "position": [
+      2208,
+      2219
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [
+      2841,
+      2852
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "đỏ mắt",
+    "position": [
+      3587,
+      3593
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      3595,
+      3601
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "– nứt",
+    "position": [
+      3610,
+      3615
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "dâu tây",
+    "position": [
+      3625,
+      3632
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "sưng hạch cổ",
+    "position": [
+      3638,
+      3650
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ]
+  }
+]

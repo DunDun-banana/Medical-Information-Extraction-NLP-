@@ -1,0 +1,11 @@
+surface_form,canonical_name,status,notes
+WBC,white blood cell count,todo,
+TWBC,total white blood cell count,todo,
+NEUT%,neutrophil percentage,todo,
+LYPH%,lymphocyte percentage,todo,
+INR,international normalized ratio,todo,
+HCT,hematocrit,todo,
+BUN,blood urea nitrogen,todo,
+creatinine,creatinine,todo,
+kali,potassium,todo,
+glucose,glucose,todo,

@@ -1,0 +1,94 @@
+[
+  {
+    "text": "siponimod 0.25 mg po mỗi ngày",
+    "position": [
+      24,
+      53
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2121096"
+    ]
+  },
+  {
+    "text": "finerenone 20mg po mỗi sáng",
+    "position": [
+      56,
+      83
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2562824"
+    ]
+  },
+  {
+    "text": "petrolatum 0.324mg bôi ngoài da mỗi sáng",
+    "position": [
+      86,
+      126
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1423681"
+    ]
+  },
+  {
+    "text": "bismuth subsalicylate 525 mg oral powder",
+    "position": [
+      129,
+      169
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1191695"
+    ]
+  },
+  {
+    "text": "24 HR clonidine 0.17mg po qd",
+    "position": [
+      191,
+      219
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "885880"
+    ]
+  },
+  {
+    "text": "doxazosin 8 mg uống mỗi ngày",
+    "position": [
+      222,
+      250
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "205544"
+    ]
+  },
+  {
+    "text": "tetraethylammonium hydroxide",
+    "position": [
+      253,
+      281
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1648695"
+    ]
+  }
+]

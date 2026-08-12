@@ -1,0 +1,71 @@
+[
+  {
+    "text": "thư vú di căn",
+    "position": [
+      199,
+      212
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "position": [
+      214,
+      233
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J90"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      286,
+      293
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dịch màng ngoài tim",
+    "position": [
+      331,
+      350
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thư di căn theo đường bạch huyết",
+    "position": [
+      401,
+      433
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mày",
+    "position": [
+      1535,
+      1538
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ay",
+    "position": [
+      1540,
+      1542
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

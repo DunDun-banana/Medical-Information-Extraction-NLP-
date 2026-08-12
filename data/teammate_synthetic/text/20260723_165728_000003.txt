@@ -1,0 +1,12 @@
+Tiền sử bệnh
+Tiền sử của một người nhà có ghi rằng họ từng trải qua triệu chứng hẹp khe khớp và đau nửa đầu.
+
+Đánh giá hiện tại
+Các entity là tình trạng hiện tại của chính bệnh nhân. Hiện tại, bệnh nhân được chẩn đoán nhồi máu cơ tim cấp. Không có thông tin về hard-negative phrase trong bối cảnh này.
+
+Cận lâm sàng
+- Tên xét nghiệm: PLT và giá trị: 336 10^9/L.
+
+Tiền sử bệnh hiện tại
+- penicillin đã được sử dụng trước đây.
+- rối loạn huyết động đã xảy ra trước đây.

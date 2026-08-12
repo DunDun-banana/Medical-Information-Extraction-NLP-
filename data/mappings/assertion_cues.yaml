@@ -1,0 +1,37 @@
+isNegated:
+  - không
+  - không có
+  - không thấy
+  - không ghi nhận
+  - phủ nhận
+  - chưa phát hiện
+  - âm tính
+  - loại trừ
+  - chưa thấy
+  - không hề
+  - hoàn toàn không
+  - không còn
+  - chưa có
+  - vắng mặt
+isHistorical:
+  - tiền sử
+  - trước đây
+  - đã từng
+  - trong quá khứ
+  - thuốc trước khi nhập viện
+  - thuốc đã dùng trước đây
+  - cách đây
+  - đã mổ
+  - đã phẫu thuật
+  - từng mắc
+  - từng điều trị
+  - cũ
+isFamily:
+  - tiền sử gia đình
+  - mẹ bệnh nhân
+  - bố bệnh nhân
+  - cha bệnh nhân
+  - vợ bệnh nhân
+  - chồng bệnh nhân
+  - con bệnh nhân
+  - thành viên trong gia đình

@@ -1,0 +1,395 @@
+[
+  {
+    "text": "lý",
+    "position": [
+      25,
+      27
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "thư biểu mô tuyến đại tràng",
+    "position": [
+      43,
+      70
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "position": [
+      73,
+      101
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J44.9"
+    ]
+  },
+  {
+    "text": "Đái tháo đường",
+    "position": [
+      120,
+      134
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E11.9"
+    ]
+  },
+  {
+    "text": "xơ gan",
+    "position": [
+      137,
+      143
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K74.6"
+    ]
+  },
+  {
+    "text": "thư tuyến đại tràng",
+    "position": [
+      287,
+      306
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "xơ gan",
+    "position": [
+      337,
+      343
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K74.6"
+    ]
+  },
+  {
+    "text": "huyết áp",
+    "position": [
+      394,
+      402
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      427,
+      434
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      477,
+      484
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [
+      557,
+      566
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J18.9"
+    ]
+  },
+  {
+    "text": "rung nhĩ",
+    "position": [
+      580,
+      588
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I48.9"
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      826,
+      833
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "khó khăn khi",
+    "position": [
+      867,
+      879
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      927,
+      935
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "hạ",
+    "position": [
+      991,
+      993
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      1021,
+      1028
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      1031,
+      1038
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "chạy nhảy",
+    "position": [
+      1162,
+      1171
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ng",
+    "position": [
+      1181,
+      1183
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1191,
+      1194
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "thường",
+    "position": [
+      1291,
+      1297
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ương",
+    "position": [
+      1302,
+      1306
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [
+      1483,
+      1503
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      1506,
+      1508
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đờm",
+    "position": [
+      1521,
+      1524
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      1544,
+      1547
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      1548,
+      1551
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "dịch thanh dịch lẫn máu",
+    "position": [
+      1554,
+      1577
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "phân nâu dương tính guai",
+    "position": [
+      1590,
+      1614
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "guaiac",
+    "position": [
+      1610,
+      1616
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1373150"
+    ]
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "position": [
+      1747,
+      1764
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "xẹp phổi",
+    "position": [
+      1768,
+      1776
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J98.1"
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "position": [
+      1807,
+      1826
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J90"
+    ]
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [
+      1932,
+      1941
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J18.9"
+    ]
+  },
+  {
+    "text": "Rung nhĩ",
+    "position": [
+      1954,
+      1962
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I48.9"
+    ]
+  },
+  {
+    "text": "nhịp nhanh",
+    "position": [
+      1967,
+      1977
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "thất",
+    "position": [
+      1983,
+      1987
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

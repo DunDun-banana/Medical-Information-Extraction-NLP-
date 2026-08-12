@@ -1,0 +1,57 @@
+[
+  {
+    "text": "không có tầm nhìn",
+    "position": [
+      39,
+      56
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau khi đi tiểu",
+    "position": [
+      60,
+      75
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      79,
+      85
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đầy hơi khó chịu",
+    "position": [
+      89,
+      105
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "hạch cổ sưng to",
+    "position": [
+      109,
+      124
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  }
+]

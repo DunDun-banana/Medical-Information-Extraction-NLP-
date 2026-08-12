@@ -1,0 +1,390 @@
+[
+  {
+    "text": "ối loạn chuyển hóa tinh bột (amyloidosis)",
+    "position": [
+      30,
+      71
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hóa tinh bột",
+    "position": [
+      319,
+      331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loidosis",
+    "position": [
+      345,
+      353
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "triệu chứng",
+    "position": [
+      698,
+      709
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "suy các cơ quan",
+    "position": [
+      713,
+      728
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "bạch cầu",
+    "position": [
+      770,
+      778
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "bạch cầu dòng tủy mãn tính",
+    "position": [
+      770,
+      796
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      807,
+      814
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      821,
+      834
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "lipid máu, không đặc hiệu",
+    "position": [
+      846,
+      871
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường típ 2",
+    "position": [
+      878,
+      898
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E11.9"
+    ]
+  },
+  {
+    "text": "ống sống",
+    "position": [
+      909,
+      917
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gout",
+    "position": [
+      928,
+      932
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M10.9"
+    ]
+  },
+  {
+    "text": "bệnh thận mạn",
+    "position": [
+      939,
+      952
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N18.9"
+    ]
+  },
+  {
+    "text": "sản tuyến tiền liệt",
+    "position": [
+      992,
+      1011
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      1050,
+      1057
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      1089,
+      1096
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "kiệt",
+    "position": [
+      1199,
+      1203
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      1231,
+      1238
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Lú lẫn",
+    "position": [
+      1254,
+      1260
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      1320,
+      1323
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      1369,
+      1376
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Lú lẫn",
+    "position": [
+      1401,
+      1407
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "yếu cơ",
+    "position": [
+      1447,
+      1453
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ngã",
+    "position": [
+      1462,
+      1465
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "trạng",
+    "position": [
+      1510,
+      1515
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "kiệt",
+    "position": [
+      1520,
+      1524
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      1531,
+      1538
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Lú lẫn",
+    "position": [
+      1545,
+      1551
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Ăn uống kém",
+    "position": [
+      1558,
+      1569
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      1581,
+      1584
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Nôn",
+    "position": [
+      1592,
+      1595
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "máu",
+    "position": [
+      1605,
+      1608
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "mật",
+    "position": [
+      1624,
+      1627
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "loidosis chuỗi",
+    "position": [
+      1645,
+      1659
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loidosis tự miễn dịch",
+    "position": [
+      1681,
+      1702
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loidosis",
+    "position": [
+      1720,
+      1728
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hóa tinh bột",
+    "position": [
+      1764,
+      1776
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      2191,
+      2194
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

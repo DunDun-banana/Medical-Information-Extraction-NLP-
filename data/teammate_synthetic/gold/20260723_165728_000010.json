@@ -1,0 +1,14 @@
+[
+  {
+    "text": "hội chứng down",
+    "position": [
+      85,
+      99
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q90"
+    ]
+  }
+]

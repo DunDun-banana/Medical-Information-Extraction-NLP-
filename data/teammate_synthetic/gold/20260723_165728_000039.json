@@ -1,0 +1,79 @@
+[
+  {
+    "text": "thở gắng sức",
+    "position": [
+      35,
+      47
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau đầy",
+    "position": [
+      87,
+      94
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "triệu chứng cúm",
+    "position": [
+      184,
+      199
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "tiếng cọ xát",
+    "position": [
+      230,
+      242
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "liệt hô hấp",
+    "position": [
+      445,
+      456
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "xả màu vàng hay xanh",
+    "position": [
+      481,
+      501
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "giảm hoặc mất cương",
+    "position": [
+      525,
+      544
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  }
+]

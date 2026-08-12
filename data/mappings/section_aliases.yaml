@@ -1,0 +1,199 @@
+PAST_HISTORY:
+- Tiền sử bệnh
+- Tiền sử bệnh nội khoa
+- Tiền sử bệnh lý
+- Các bệnh lý mãn tính
+- Các bệnh lý mạn tính
+- Bệnh lý mãn tính
+- Bệnh mạn tính
+- Các bệnh mãn tính
+- Các bệnh lý nền
+- Bệnh lý nền
+- Tiền sử bản thân
+- Các tập tương tự trước đây
+- Các tập phát bệnh tương tự trước đây
+- Các đợt tương tự trước đây
+PAST_PROCEDURE:
+- Tiền sử phẫu thuật / thủ thuật
+- Lịch sử phẫu thuật / thủ thuật
+- Tiền sử mổ
+- Tiền sử phẫu thuật
+- Tiền sử thủ thuật
+PAST_MEDICATION:
+- Thuốc trước khi nhập viện
+- Thuốc dùng trước khi nhập viện
+- Thuốc đang dùng trước khi nhập viện
+- Thuốc trước khi nhập viện lần này
+- Thuốc đã dùng trước đây
+- Thuốc đã điều trị trước khi nhập viện lần này
+- Thuốc đang điều trị theo đơn
+- Bệnh nhân có tiền sử dùng thuốc
+- Bệnh nhân có tiền sử dụng thuốc
+CURRENT_ILLNESS:
+- Bệnh sử hiện tại
+- Bệnh án hiện tại
+- Tiền sử bệnh hiện tại
+- Lịch sử bệnh hiện tại
+- Bệnh sử
+- Lịch sử bệnh
+- Tóm tắt bệnh sử
+- Tóm tắt bệnh án
+- Bệnh sử lần này
+- Đợt bệnh hiện tại
+ADMISSION_REASON:
+- Lý do nhập viện
+- Lý do vào viện
+- Lý do khám bệnh
+CURRENT_SYMPTOMS:
+- Triệu chứng hiện tại
+- Các triệu chứng hiện tại
+- Triệu chứng khi nhập viện
+- Triệu chứng khi đến
+- Triệu chứng lúc vào viện
+- Tình trạng lúc vào viện
+- Khám hiện tại
+- Triệu chứng khi vào viện
+- Lúc vào viện trong tình trạng
+HOSPITAL_ASSESSMENT:
+- Đánh giá tại bệnh viện
+- Khám tại bệnh viện
+- Cận lâm sàng
+LAB_RESULT:
+- Kết quả xét nghiệm
+- Kết quả phòng thí nghiệm
+- Xét nghiệm
+- XN lúc vào viện
+- XN máu
+- Huyết học & Đông máu
+- Kết quả cận lâm sàng
+IMAGING:
+- Kết quả chẩn đoán hình ảnh
+- Chẩn đoán hình ảnh
+- CLVT
+- MRI
+- Siêu âm
+- X-quang
+- Kết quả siêu âm
+- CT
+DIAGNOSIS:
+- Chẩn đoán
+- Chẩn đoán sơ bộ
+- Các phát hiện chẩn đoán khác
+- Chẩn đoán xác định
+- Chẩn đoán phân biệt
+- Chẩn đoán ra viện
+TREATMENT:
+- Điều trị
+- Điều trị tại bệnh viện
+- Xử trí
+- Hướng điều trị
+- Hướng xử trí
+- Thuốc điều trị
+- Đơn thuốc
+- Các thuốc đã thực hiện
+SYMPTOM_CHARACTERISTICS:
+- Đặc điểm triệu chứng
+- Đặc điểm các triệu chứng
+- Đặc điểm triệu chứng khi khám tại khoa cấp cứu
+DISEASE_COURSE:
+- Diễn biến bệnh
+- Diễn biến
+PRE_ADMISSION_EVENTS:
+- Các sự kiện trước khi nhập viện
+- Sự kiện trước khi nhập viện
+- Các diễn biến trước khi nhập viện
+- Các diễn biến  trước khi nhập viện
+- Các biến trước khi nhập viện
+PRE_ADMISSION_STATUS:
+- Tình trạng ngay trước khi nhập viện
+- Tình trạng trước khi nhập viện
+RISK_FACTORS:
+- Các yếu tố nguy cơ liên quan
+- Tiền sử dịch tễ
+- Yếu tố nguy cơ
+PHYSICAL_EXAM:
+- Kết quả khám thực thể
+- Kết quả thăm khám lâm sàng
+- Kết quả khám lâm sàng
+- Dấu hiệu lâm sàng
+- Khám thấy
+- Khám lâm sàng
+- Khám lúc vào viện
+- Khám lúc vào
+- Khám toàn thân
+- Các bộ phận
+- Khám
+PROCEDURES:
+- Các thủ thuật đã thực hiện
+- Thủ thuật đã thực hiện
+- Thủ thuật thực hiện
+ONSET:
+- Thời điểm khởi phát triệu chứng
+- Triệu chứng Bắt đầu
+CURRENT_SYMPTOMS_EXTRA:
+- Triệu chứng chính
+- Triệu chứng lúc nhập viện cơ sở
+- Triệu chứng lúc vào
+- Lúc vào phòng cấp cứu trong tình trạng
+- Tình trạng khi đến khoa Cấp cứu
+- Tình trạng lúc khám vào viện
+- Tình trạng lúc vào
+- Tình trạng vào Khoa Cấp cứu
+- Lúc vào viện khám
+LAB_RESULT_EXTRA:
+- Kết quả laboratory
+- Kết quả xét thí nghiệm
+- Kết quả xét nghiệm máu
+IMAGING_EXTRA:
+- Kết quả hình ảnh
+- Kết quả chụp ảnh
+- Kết quả chụp ảnh/kỹ thuật chẩn đoán hình ảnh
+DIAGNOSIS_EXTRA:
+- Các kết quả chẩn đoán khác
+- Các kết quả  khác
+PROCEDURES_EXTRA:
+- Các thủ thuật thực hiện
+- Thủ thuật
+TREATMENT_EXTRA:
+- Đã xử trí thuốc và thủ thuật
+USER_QUESTION:
+- Câu hỏi từ người dùng
+- Hỏi
+DOCTOR_ANSWER:
+- Câu trả lời của bác sĩ
+- Trả lời
+FAMILY_HISTORY:
+- Tiền sử gia đình
+- Bệnh sử gia đình
+ALLERGY_HISTORY:
+- Tiền sử dị ứng
+- Dị ứng
+CURRENT_MEDICATION:
+- Thuốc đang dùng
+- Thuốc đang sử dụng
+- Các thuốc đang dùng
+PROGNOSIS:
+- Tiên lượng
+COMPLICATIONS:
+- Biến chứng
+FAQ_SYMPTOMS: []
+FAQ_RISK_FACTORS: []
+FAQ_TREATMENT: []
+FAQ_DIAGNOSIS: []
+FAQ_LAB_RESULT: []
+VITAL_SIGNS:
+- Dấu hiệu sinh tồn
+- Sinh hiệu
+- Các dấu hiệu sinh tồn
+MEDICATION_ORDERS:
+- Y lệnh thuốc
+- Thuốc kê đơn
+- Danh sách thuốc điều trị
+FAQ_PREVENTION:
+- Phòng ngừa
+- Cách phòng bệnh
+- Biện pháp phòng ngừa
+GENERAL_ADVICE:
+- Lời khuyên
+- Khuyến cáo
+- Tư vấn chung

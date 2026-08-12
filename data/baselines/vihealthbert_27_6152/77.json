@@ -1,0 +1,118 @@
+[
+  {
+    "text": "đau vùng xương bánh chè",
+    "position": [
+      73,
+      96
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      202,
+      209
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Đau bánh chè đùi phải",
+    "position": [
+      434,
+      455
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      495,
+      498
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      609,
+      616
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Siêu âm",
+    "position": [
+      626,
+      633
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Siêu âm",
+    "position": [
+      728,
+      735
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "suy tim",
+    "position": [
+      1029,
+      1036
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
+    "text": "thận mạn",
+    "position": [
+      1043,
+      1051
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp",
+    "position": [
+      1068,
+      1076
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các yếu tố làm giảm: Không ghi rõ",
+    "position": [
+      1264,
+      1297
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chứng",
+    "position": [
+      1314,
+      1319
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

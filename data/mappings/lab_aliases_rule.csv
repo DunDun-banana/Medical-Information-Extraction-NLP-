@@ -1,0 +1,49 @@
+surface_form,canonical_name,priority
+Tổng phân tích nước tiểu,urinalysis,100
+tổng phân tích nước tiểu,urinalysis,100
+cấy nước tiểu,urine culture,100
+Cấy nước tiểu,urine culture,100
+cấy máu,blood culture,100
+Cấy máu,blood culture,100
+canxi ion hóa,ionized calcium,100
+bilirubin toàn phần,total bilirubin,100
+phosphatase kiềm,alkaline phosphatase,100
+huyết cầu tố,hemoglobin,100
+bạch cầu,white blood cell count,90
+tiểu cầu,platelet count,90
+đường huyết,glucose,90
+creatinine,creatinine,100
+creatinin,creatinine,100
+Troponin,troponin,100
+troponin,troponin,100
+lactate,lactate,100
+bilirubin,bilirubin,100
+phosphate,phosphate,100
+photpho,phosphate,100
+phospho,phosphate,100
+canxi,calcium,100
+calci,calcium,100
+natri,sodium,100
+kali,potassium,100
+glucose,glucose,100
+ure,urea,100
+CRP,c-reactive protein,100
+BNP,b-type natriuretic peptide,100
+IgA,immunoglobulin A,100
+CEA,carcinoembryonic antigen,100
+NEUT%,neutrophil percentage,100
+LYPH%,lymphocyte percentage,100
+LYMPH%,lymphocyte percentage,100
+TWBC,total white blood cell count,100
+WBC,white blood cell count,100
+HGB,hemoglobin,100
+HCT,hematocrit,100
+PLT,platelet count,100
+INR,international normalized ratio,100
+BUN,blood urea nitrogen,100
+AST,aspartate aminotransferase,100
+ALT,alanine aminotransferase,100
+ALP,alkaline phosphatase,100
+K,potassium,30
+Na,sodium,30
+Cr,creatinine,30

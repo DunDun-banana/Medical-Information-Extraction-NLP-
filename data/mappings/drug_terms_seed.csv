@@ -1,0 +1,76 @@
+term,canonical_name,rxcui,source
+aspirin,aspirin,1191,seed
+amlodipine,amlodipine,,seed
+chlorpheniramine,chlorpheniramine,,seed
+capsaicin,capsaicin,,seed
+paracetamol,acetaminophen,,seed
+tylenol,acetaminophen,202433,seed
+acetaminophen,acetaminophen,,seed
+ceftriaxone,ceftriaxone,,seed
+furosemide,furosemide,,seed
+lasix,furosemide,,seed
+laxis,furosemide,,seed
+methadone,methadone,,seed
+amoxicillin,amoxicillin,,seed
+azithromycin,azithromycin,,seed
+heparin,heparin,,seed
+metoprolol,metoprolol,6918,seed
+salbutamol,albuterol,,seed
+albuterol,albuterol,,seed
+ipratropium,ipratropium,,seed
+doxycycline,doxycycline,3640,seed
+doxycyclin,doxycycline,3640,seed
+omeprazole,omeprazole,,seed
+nitroglycerin,nitroglycerin,4917,seed
+atenolol,atenolol,1202,seed
+levofloxacin,levofloxacin,82122,seed
+bactrim,sulfamethoxazole trimethoprim,151399,seed
+cotrimoxazol,sulfamethoxazole trimethoprim,,seed
+vancomycin,vancomycin,,seed
+ceftazidime,ceftazidime,,seed
+amiodarone,amiodarone,,seed
+prednisone,prednisone,,seed
+prednisolone,prednisolone,,seed
+morphine,morphine,,seed
+lorazepam,lorazepam,,seed
+compazine,prochlorperazine,,seed
+aleve,naproxen,,seed
+flagyl,metronidazole,,seed
+octreotide,octreotide,,seed
+plavix,clopidogrel,,seed
+clopidogrel,clopidogrel,,seed
+coumadin,warfarin,,seed
+warfarin,warfarin,,seed
+lovenox,enoxaparin,,seed
+atorvastatin,atorvastatin,,seed
+rosuvastatin,rosuvastatin,,seed
+crestor,rosuvastatin,,seed
+lisinopril,lisinopril,,seed
+carvedilol,carvedilol,,seed
+torsemide,torsemide,,seed
+insulin glargine,insulin glargine,,seed
+cellcept,mycophenolate mofetil,,seed
+prograf,tacrolimus,,seed
+azathioprine,azathioprine,,seed
+gleevec,imatinib,,seed
+allopurinol,allopurinol,,seed
+ertapenem,ertapenem,,seed
+augmentin,amoxicillin clavulanate,,seed
+cipro,ciprofloxacin,,seed
+ciprofloxacin,ciprofloxacin,,seed
+percocet,oxycodone acetaminophen,,seed
+vicodin,hydrocodone acetaminophen,,seed
+suboxone,buprenorphine naloxone,,seed
+clonidine,clonidine,,seed
+klonopin,clonazepam,,seed
+seroquel,quetiapine,,seed
+advil,ibuprofen,153010,seed
+ibuprofen,ibuprofen,,seed
+mucinex,guaifenesin,,seed
+ranexa,ranolazine,,seed
+desmopressin,desmopressin,3251,seed
+fulvestrant,fulvestrant,,seed
+taxol,paclitaxel,,seed
+iron,iron,,seed
+Chlorpheniramine 0.4 MG/ML,chlorpheniramine 0.4 mg/ml,360047,official_example
+Capsaicin 0.38 MG/ML,capsaicin 0.38 mg/ml,1660761,official_example

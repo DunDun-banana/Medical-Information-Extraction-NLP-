@@ -1,0 +1,57 @@
+[
+  {
+    "text": "ngất",
+    "position": [
+      24,
+      28
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "tóc quá nhiều",
+    "position": [
+      90,
+      103
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "bị kích thích",
+    "position": [
+      115,
+      128
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đột ngột đau tai",
+    "position": [
+      138,
+      154
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "giảm luồng không khí",
+    "position": [
+      191,
+      211
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  }
+]

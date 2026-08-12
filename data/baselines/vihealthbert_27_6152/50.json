@@ -1,0 +1,193 @@
+[
+  {
+    "text": "Bị tăng đau đầu cải thiện khi nằm ngửa.",
+    "position": [
+      157,
+      196
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng đau",
+    "position": [
+      160,
+      168
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "đau đầu.",
+    "position": [
+      263,
+      271
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "phù",
+    "position": [
+      353,
+      356
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ]
+  },
+  {
+    "text": "úng thuỷ",
+    "position": [
+      392,
+      400
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nhãn áp",
+    "position": [
+      509,
+      516
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      703,
+      710
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      728,
+      734
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [
+      772,
+      779
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "úng tuỷ",
+    "position": [
+      850,
+      857
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "úng thủy",
+    "position": [
+      972,
+      980
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầu",
+    "position": [
+      1004,
+      1007
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "đau đầu.",
+    "position": [
+      1109,
+      1117
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      1192,
+      1195
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      1237,
+      1243
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [
+      1337,
+      1344
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [
+      1596,
+      1603
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Phù",
+    "position": [
+      1797,
+      1800
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "thị",
+    "position": [
+      1805,
+      1808
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

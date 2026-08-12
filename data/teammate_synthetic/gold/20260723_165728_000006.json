@@ -1,0 +1,53 @@
+[
+  {
+    "text": "khó khăn khi nuốt",
+    "position": [
+      24,
+      41
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "chấm mờ đục hình nêm",
+    "position": [
+      45,
+      65
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "viêm dây thần kinh thị giác ở sau nhãn cầu",
+    "position": [
+      138,
+      180
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "PLT",
+    "position": [
+      218,
+      221
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "210 10^9/L",
+    "position": [
+      223,
+      233
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  }
+]

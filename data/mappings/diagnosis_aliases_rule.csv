@@ -1,0 +1,43 @@
+surface_form,canonical_name,icd_codes,priority
+viêm tuyến mồ hôi,hidradenitis suppurativa,L73.2,120
+ngoại tâm thu nhĩ,atrial premature depolarization,I49.1,120
+ngoại tâm thu thất,ventricular premature depolarization,I49.3,120
+tăng huyết áp,essential hypertension,I10,110
+đái tháo đường típ 2 không biến chứng,type 2 diabetes mellitus without complications,E11.9,130
+đái tháo đường típ 2,type 2 diabetes mellitus,E11.9,120
+đái tháo đường,type 2 diabetes mellitus,E11.9,100
+bệnh phổi tắc nghẽn mạn tính,chronic obstructive pulmonary disease,J44.9,120
+đợt cấp bệnh phổi tắc nghẽn mạn tính,copd with acute exacerbation,J44.1,130
+hen suyễn,asthma,J45.9,110
+viêm phổi,pneumonia,J18.9,110
+thuyên tắc phổi,pulmonary embolism,I26.9,110
+nhiễm khuẩn đường tiết niệu,urinary tract infection,N39.0,120
+rối loạn lo âu,anxiety disorder,F41.9,110
+táo bón,constipation,K59.0,105
+trào ngược dạ dày - thực quản không có viêm thực quản,gastro-esophageal reflux disease without esophagitis,K21.9,130
+bệnh trào ngược dạ dày - thực quản,gastro-esophageal reflux disease,K21.9,120
+rung nhĩ,atrial fibrillation,I48.9,100
+suy tim,heart failure,I50.9,100
+bệnh thận mạn,chronic kidney disease,N18.9,100
+ung thư đại tràng,malignant neoplasm of colon,C18.9,100
+béo phì,obesity,E66.9,100
+xơ gan,cirrhosis of liver,K74.6,90
+bệnh gút,gout,M10.9,100
+rối loạn lipid máu,hyperlipidemia,E78.5,100
+xơ vữa động mạch,atherosclerosis,I70.9,100
+nhồi máu cơ tim,myocardial infarction,I21.9,100
+viêm mô tế bào,cellulitis,L03.90,100
+xuất huyết dưới nhện,subarachnoid hemorrhage,I60.9,100
+xuất huyết nội sọ,intracranial hemorrhage,I62.9,100
+tràn dịch màng phổi,pleural effusion,J90,100
+xẹp phổi,atelectasis,J98.1,100
+tănghuyết áp,essential hypertension,I10,105
+thiếu men g6pd,thiếu men glucose-6-phosphate dehydrogenase,D55.0,150
+thiếu hụt men g6pd,thiếu men glucose-6-phosphate dehydrogenase,D55.0,150
+g6pd deficiency,thiếu men glucose-6-phosphate dehydrogenase,D55.0,145
+thiếu máu do thiếu men glucose-6-phosphate dehydrogenase,thiếu máu do thiếu men glucose-6-phosphate dehydrogenase,D55.0,155
+thiếu máu do tan huyết,thiếu máu tan huyết,D55.9,125
+thiếu máu tan huyết,thiếu máu tan huyết,D55.9,125
+suy thận cấp,acute kidney failure,N17.9,120
+bại não,cerebral palsy,G80.9,120
+mày đay vô căn,idiopathic urticaria,L50.1,140
