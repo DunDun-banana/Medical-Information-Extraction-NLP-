@@ -1,0 +1,6 @@
+-r requirements-hybrid.txt
+
+# Artifact models/assertion_scope/v4_scope.joblib was trained with this version.
+# Pinning avoids the LogisticRegression.multi_class pickle incompatibility seen
+# when Colab keeps scikit-learn 1.6.x.
+scikit-learn==1.8.0

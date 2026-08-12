@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/raw/input/*
+data/raw/ontology/*
+data/interim/*
+data/processed/*
+data/review/*
+!data/raw/input/.gitkeep
+!data/raw/ontology/rxnorm/.gitkeep
+!data/raw/ontology/icd10/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!data/review/.gitkeep
